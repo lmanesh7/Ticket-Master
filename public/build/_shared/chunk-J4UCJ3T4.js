@@ -1,0 +1,1 @@
+import{q as i}from"/build/_shared/chunk-6KANJRLS.js";import{c as t}from"/build/_shared/chunk-Q3IECNXJ.js";var e=t(i());function c(n){let{title:a,rightSection:o}=n;return(0,e.jsxs)("div",{className:"flex items-center justify-between",children:[(0,e.jsx)("h1",{className:"font-cal text-3xl font-bold",children:a}),o]})}export{c as a};
